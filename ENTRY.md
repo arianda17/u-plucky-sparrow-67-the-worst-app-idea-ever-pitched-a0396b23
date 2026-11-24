@@ -1,0 +1,1 @@
+Introducing Hover, the app that watches your houseplants through a webcam and texts you the exact moment one of them sighs, because our founder is certain your fern has been holding something back since March.
